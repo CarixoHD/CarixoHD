@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   </a>
 <br>
 <br>
-## 🐧 Operative systems, and distros
+## 🐧 Operating systems, and distros
 <div>
 <img align="left" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white"/>
 <img align="left" src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white"/>
