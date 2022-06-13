@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔭 About me
-- 19 years old (turning 20 soon *sigh*)
+- 20 years old
 - I'm currently working on my masters degree in communication technology and digital security at the NTNU Norway.
 - I work as a cybersecurity software developer for Secunor, and as a DevOps engineer for AscendNTNU.
 - I love learning new things, and I seek new knowledge whenever I can. 
