@@ -14,26 +14,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔭 About me
-- 20 years old
+- 21 years old
 - I'm currently working on my masters degree in communication technology and digital security at the NTNU Norway.
-- I work as a cybersecurity software developer for Secunor, and as a DevOps engineer for AscendNTNU.
 - I love learning new things, and I seek new knowledge whenever I can. 
-- I'm currently on the National Cybersecurity team of Norway, and I was nominated to join Team Europe.
-
 
 ## 💻 Tech
 - I've been programming since I was in 7th grade (started off with C# which was pretty stupid).
-- I know the *main* web languages (CSS, JavaScript, HTML, PHP, MySQL, MongoDB, NodeJS, jQuery), and I'm currently learning more about Svelte and React.
-- The other programming languages I currently know are Python, C#, C, C++, Lua, Java, and Bash.
 - I recently started working with AWS
-- My main hacking category is web (don't hate me please)
-- I love Linux, and I've been using Arch Linux since 11th grade (when I was 15/16 years old), as well as MacOS, Ubuntu, and Windows.
+- I love Linux, and I've been using **Arch Linux** since 11th grade (when I was 15/16 years old), as well as MacOS, Ubuntu, and Windows.
 - I also love robotics! 🤖
 
 ## 👯 Other stuff
 - I play violin and piano in my spare time, as well as producing random music
-- I love maths (most of the time) 
-- I like gaming as well (FPS, puzzle games, and strategy games) 🎮
+- I like maths 
 
 
 <a href="https://www.linkedin.com/in/shayan-alinejad-84a77a17a/" target="blank" >
