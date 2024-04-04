@@ -16,17 +16,8 @@ Here are some ideas to get you started:
 ## 🔭 About me
 - 21 years old
 - I'm currently working on my masters degree in communication technology and digital security at the NTNU Norway.
-- I love learning new things, and I seek new knowledge whenever I can. 
-
-## 💻 Tech
-- I've been programming since I was in 7th grade (started off with C# which was pretty stupid).
-- I recently started working with AWS
-- I love Linux, and I've been using **Arch Linux** since 11th grade (when I was 15/16 years old), as well as MacOS, Ubuntu, and Windows.
-- I also love robotics! 🤖
-
-## 👯 Other stuff
-- I play violin and piano in my spare time, as well as producing random music
-- I like maths 
+- I love learning new things, and I seek new knowledge whenever I can.
+- CTF-player
 
 
 <a href="https://www.linkedin.com/in/shayan-alinejad-84a77a17a/" target="blank" >
