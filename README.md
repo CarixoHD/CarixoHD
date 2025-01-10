@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔭 About me
-- 21 years old
+- 22 years old
 - I'm currently working on my masters degree in communication technology and digital security at the NTNU Norway.
-- I love learning new things, and I seek new knowledge whenever I can.
 - CTF-player
 
 
