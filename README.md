@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## 🔭 About me
 - 24 years old
-- I'm currently working on my masters degree in communication technology and digital security at the NTNU Norway.
+- I have a masters degree in communication technology and digital security from NTNU Norway.
 - CTF-player
 
 
